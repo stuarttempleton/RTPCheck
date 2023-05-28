@@ -2,7 +2,7 @@
 
 
 namespace RealTimeProtection;
-internal class RTP
+public class RTP
 {
     public static bool Disabled()
     {
